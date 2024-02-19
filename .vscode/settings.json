@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/avr-gcc",
+    "files.associations": {
+        "crc16.h": "c"
+    }
+}

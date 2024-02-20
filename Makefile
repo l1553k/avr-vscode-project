@@ -1,6 +1,6 @@
 MCU = atmega328p
 F_CPU = 16000000UL
-BAUD=9600
+BAUD = 9600
 
 CC = /usr/bin/avr-g++
 CCFLAGS = -mmcu=$(MCU) -DF_CPU=$(F_CPU) -DBAUD=$(BAUD) -Os -Wall -Werror

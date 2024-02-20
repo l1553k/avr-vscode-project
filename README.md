@@ -5,6 +5,7 @@ Uses `avr-g++` to compile files.
 Installs `C/C++ Extension Pack` and `Header Guard Generator` inside container.
 
 ## How to:
+
 ### Build the firmware
 ```
 make
